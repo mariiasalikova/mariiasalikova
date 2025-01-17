@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:salikova.work@gmail.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mtsalikova@edu.hse.ru)
 
-My name is **Mariia Salikova**, I'm 18 years old and I'm a student of **Computer Science** at Higher School of Economics (**HSE**).
+My name is **Mariia Salikova**, I'm 19 years old and I'm a student of **Computer Science** at Higher School of Economics (**HSE**).
 As my main strength, along with my competences in CS, I single out the ability to communicate at 💬**C1** level in English, Spanish, Russian and Ucranian. Now I am mastering my Portugal and Catalan skills.💬
 
 I am currently working on projects in FinTech, InfoSec, Backend & Full Stack Software Engeneering and I would like to participate in such type of work.
