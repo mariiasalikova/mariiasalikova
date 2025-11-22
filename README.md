@@ -7,7 +7,7 @@
 My name is **Mariia Salikova**, I'm 20 years old and I'm a student of **Computer Science** at Ca' Foscari University of Venice (**UNIVE**) and Higher School of Economics (**HSE**).
 As my main strength, along with my competences in CS, I single out the ability to communicate at 💬**C1** level in English, Spanish, Russian and Ukranian. Now I am mastering my Portugal and Catalan skills.💬
 
-I am currently working on projects in FinTech, InfoSec, Backend & Full Stack Software Engeneering and I would like to participate in such type of work.
+I am currently working on projects in FinTech, InfoSec, SRE, DevOps, Backend & Full Stack Software Engeneering and I would like to participate in such type of work.
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
